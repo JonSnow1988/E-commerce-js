@@ -1,0 +1,150 @@
+
+body {
+  
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://cafemalist.com/wp-content/uploads/2020/01/bolsa-de-granos-de-caf%C3%A9-en-la-mesa-2048x1365.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+tr {
+  font-size: medium;
+}
+
+th {
+  
+  color: antiquewhite;
+  text-decoration: solid;
+  size: 10px;
+}
+
+td {
+  
+  color: antiquewhite;
+  text-decoration: solid;
+  size: 10px;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 1 rem = 10 px
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  max-width: 320px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.315);
+
+  &-header {
+    width: 100%;
+    display: block;
+  }
+}
+
+&-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+&-img {
+  border: 5px solid white;
+  background-color: white;
+  border-radius: 50%;
+  margin-top: calc(-48px - 5px);
+}
+
+-footer {
+  display: flex;
+  justify-content: space-evenly;
+
+  &-social {
+    text-align: center;
+
+    p {
+      margin-top: 0;
+      margin-bottom: 2rem;
+      letter-spacing: 1px;
+      color: var(--dark-gray);
+      font-weight: 700;
+      font-size: 1.2rem;
+    }
+  }
+}
+.rounded-circle {
+  margin-left: 800px;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin-inline-end: auto;
+
+}
+
+.about-text {
+  color: rgb(246, 250, 7);
+  font-size: 22px;
+  text-align: justify;
+  text-overflow: ellipsis;
+  font-family: cursive;
+}
+
+.btn-dark {
+  border-radius: 20px;
+  background-color: rgb(165, 42, 42);
+}
+
+h1 {
+  position: relative;
+  font-size: 6em;
+  letter-spacing: 15px;
+  color: #8d9c04;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: center;
+  -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+  line-height: 0.70em;
+  outline: none;
+  animation: animate 3s linear infinite;
+}
+@keyframes animate
+{
+  0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%
+  {
+      color: #8d9c04;
+      text-shadow: none;
+  }
+  18.1%,20.1%,30%,50%,60.1%,65%,80.1%,80.1%,90%,92.1%,100% 
+  {
+      color: #fff;
+      text-shadow: 0 0 10px #fbff00;
+      0 0 20px #fbff00,
+      0 0 40px #fbff00,
+      0 0 80px #fbff00,
+      0 0 160px #fbff00,
+      
+  }
+}

@@ -1,0 +1,77 @@
+[
+   
+    {
+        "precio": 230,
+        "id": 1,
+        "title": "Cafe Gourmet",
+        "thumbnailUrl": "https://productosgourmet.online/2914-home_default/cafe-gourmet-tostado-en-grano-descafeinado-envase-1kg.jpg"
+    },
+    {
+        "precio": 165,
+        "id": 2,
+        "title": "Cafe Compadre",
+        "thumbnailUrl": "https://cafeteina.pe/wp-content/uploads/2020/09/Cafe-Compadre-1-256x256.jpg"
+    },
+    {
+        "precio": 360,
+        "id": 3,
+        "title": "Cafe Juan Valdez",
+        "thumbnailUrl": "https://images.rappi.pe/products/27241-1540928179.png?d=200x200&e=webp"
+    },
+    {
+        "precio": 420,
+        "id": 4,
+        "title": "Cafe Lavazza",
+        "thumbnailUrl": "https://media-esp-buyviu-com.s3.amazonaws.com/products/2172be300c2cc0e1657d55e7825dc26f-buyviu-carrefour_thumb.png"
+    },
+    {
+        "precio": 300,
+        "id": 5,
+        "title": "Cafe Lareño",
+        "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/31CMtTpeLnL._PIbundle-8,TopRight,0,0_AA256SH20_.jpg"
+    },
+    {
+        "precio": 256,
+        "id": 6,
+        "title": "Cafe Garat",
+        "thumbnailUrl": "https://images.rappi.com.mx/products/15368-1580920476472.png?d=200x200"
+    },
+    {
+        "precio": 369,
+        "id": 7,
+        "title": "Cafe Colombia",
+        "thumbnailUrl": "https://www.selectosfragola.com/826-home_default/cafe-colombia-medellin-supremo-250-g-compagnia-dell-arabica.jpg"
+    },
+    {
+        "precio": 174,
+        "id": 8,
+        "title": "Cafe Sello Rojo",
+        "thumbnailUrl": "https://images.rappi.com/products/634230-1546465330126.png?d=200x200&e=webp"
+    },
+    {
+        "precio": 200,
+        "id": 9,
+        "title": "Cafe Lukafe",
+        "thumbnailUrl": "https://images.rappi.com/products/2091670007-1585717418671.png?d=136x136"
+    },
+    {
+        "precio": 426,
+        "id": 10,
+        "title": "Cafe Juan Valdez",
+        "thumbnailUrl": "https://images.rappi.com/products/2091669864-1590798227441.jpg?d=200x200&e=webp"
+    },
+    {
+        "precio": 305,
+        "id": 11,
+        "title": "Cafe Oma",
+        "thumbnailUrl": "https://images.rappi.com/products/515972-1600117277073.png?d=136x136&e=webp"
+    },
+     {
+        "precio": 523,
+        "id": 12,
+        "title": "Cafe Illy Blend",
+        "thumbnailUrl": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fviajar%2F2019%2F09%2F25%2Fcafe-Illy-clasico-kb7E--220x220%40abc.jpg&nuevoancho=256&medio=abc"
+    }
+]
+
+
